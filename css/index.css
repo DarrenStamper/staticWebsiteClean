@@ -2,8 +2,6 @@
 
 /* GENERAL */
 
-body { min-width: 450px; }
-
 #bodyContent {
     /* background: repeating-radial-gradient(#a65a08, #326c85 50px); */
     background: url("../images/index/starField6.gif");
